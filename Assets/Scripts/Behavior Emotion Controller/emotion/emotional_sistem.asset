@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b23f08d2ae4cba14087c1ed36193d82b, type: 3}
+  m_Name: emotional_sistem
+  m_EditorClassIdentifier: 
+  mBehaviorSource:
+    behaviorName: Behavior
+    behaviorDescription: 
+    mTaskData:
+      types: []
+      parentIndex: 
+      startIndex: 
+      variableStartIndex: 
+      JSONSerialization: '{"EntryTask":{"Type":"BehaviorDesigner.Runtime.Tasks.EntryTask","NodeData":{"Offset":"(-1623.05029,306.706665)"},"ID":0,"Name":"Entry","Instant":true},"RootTask":{"Type":"BehaviorDesigner.Runtime.Tasks.EmotionalSelector","NodeData":{"Offset":"(-160,250)"},"ID":1,"Name":"Emotional
+        Selector","Instant":true,"AbortTypeabortType":"Both","Children":[{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(-514.6532,146.4118)"},"ID":2,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":1}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(-275,160)"},"ID":3,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":5}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(-70,170)"},"ID":4,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":2}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(139.999878,160)"},"ID":5,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":6}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(335.347168,151.4118)"},"ID":6,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":3}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(525,160)"},"ID":7,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":4}},{"Type":"SocialPresenceVR.ChangeJammoEyes","NodeData":{"Offset":"(705,145)"},"ID":8,"Name":"Change
+        Jammo Eyes","Instant":true,"SharedIntNewEyesState":{"Type":"BehaviorDesigner.Runtime.SharedInt","Name":null,"Int32mValue":7}}]}}'
+      fieldSerializationData:
+        typeName: []
+        fieldNameHash: 
+        startIndex: 
+        dataPosition: 
+        unityObjects: []
+        byteData: 
+        byteDataArray: 
+      Version: 1.7.2
