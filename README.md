@@ -4,6 +4,25 @@ Framework for creating non-player characters in VR with social presence and emot
 
 # Development diary and commits are in Spanish
 
+Además del contenido del repositorio hay que añadir estas carpetas dentro de Assets:
+- Art
+- Behavior Designer
+- Behavior Designer Formations 
+- Behavior Designer Movement  
+- Behavior Designer Tactical
+- Behavior Designer Tutorials
+- Demigiant
+- ExternalBTS
+- FrameSynthesis
+- Tayx
+- TextMesh Pro
+- VR Beginner
+Los desarrolladores del proyecto tienen permiso para descargarlas de aquí: 
+VR NPC ThirdParty Assets.zip
+https://drive.google.com/file/d/1i7_abG9CShQiFcUc6AGBRF1wCfEfOZDE/view?usp=sharing
+
+De hecho habría que hacer una limpieza de tanta carpeta y contenido de terceros que no está claro que estemos usando...
+
 *23/7/2022* Borré lo que había en el repositorio y subí lo que me pasó Rafael Márquez pero actualizado a Unity 2021.
 Hubo que actualizar el proyecto meticulosamente, pues hubo un par de errores de compilación. Se corrigieron (XRDevide.ispresent estaba obsoleto y había que usar un código alternativo: https://docs.unity3d.com/ScriptReference/XR.XRDevice-isPresent.html) y así se pudo terminar la actualización. También se cambió el código de los shaders, que usaba una URP antigua. Al terminar seguí las instrucciones para que empezase a funcionar bien en mi Oculus Rift normal: https://docs.unity3d.com/Manual/configuring-project-for-xr.html
 Lo de Setting up tracking in the VR plugin framework no hizo falta, porque el XR Rig parecía ya estar bien puesto.
