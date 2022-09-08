@@ -17,7 +17,7 @@ Además del contenido del repositorio hay que añadir estas carpetas dentro de A
 - Tayx
 - TextMesh Pro
 - VR Beginner
-- 
+
 Los desarrolladores del proyecto tienen permiso para descargarlas de aquí: VR NPC ThirdParty Assets.zip
 https://drive.google.com/file/d/1i7_abG9CShQiFcUc6AGBRF1wCfEfOZDE/view?usp=sharing
 
