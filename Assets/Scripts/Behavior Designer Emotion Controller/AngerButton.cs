@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-public class angerButton : MonoBehaviour
+public class AngerButton : MonoBehaviour
 {
     public double asc;
     public double hap;
